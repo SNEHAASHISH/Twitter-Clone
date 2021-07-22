@@ -6,7 +6,6 @@ password generator function.
 - Login authentication along with cookies was implemented.
 - Only strong password was allowed while creating account.
 
-**[Demo Video](https://youtu.be/FkK5N_UBY8s)**
 
 # Snippets
 ## Sign Up
